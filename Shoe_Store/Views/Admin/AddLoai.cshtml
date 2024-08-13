@@ -1,0 +1,19 @@
+﻿@model Shoe_Store.Models.Loai
+
+<h2>Thêm Loại Sản phẩm </h2>
+<form method="post">
+    <div class="mb-3">
+        <label class="form-label">Tên loại sản Phẩm </label>
+        <input type="text" class="form-control" asp-for="Ten">
+        <span class="text-danger" asp-validation-for="Ten"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Size</label>
+        <input type="text" class="form-control" asp-for="Ten">
+        <span class="text-danger" asp-validation-for="Ten"></span>
+    </div>
+    <div>
+        <button class="btn btn-success" type="submit">Thêm</button>
+    </div>
+
+</form>

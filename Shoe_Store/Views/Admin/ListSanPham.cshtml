@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Shoe_Store.Models.SanPham>
+@{
+    int stt = 1;
+}
+
+<h2>Danh sách Sản phẩm</h2>
+
+<a asp-action="AddSanPham" class="btn btn-primary mb-3">Thêm sản phẩm</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Stt</th>
+            <th scope="col">Tên sản phẩm</th>
+            <th scope="col">Giá</th>
+            <th scope="col">Mô Tả</th>
+            <th scope="col">Số lượng</th>
+            <th scope="col">Màu Sắc</th>
+            <th scope="col">Nhà Sản Xuất</th>
+            <th scope="col">Hình Ảnh</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@stt</td>
+                    <td>@item.Ten</td>
+                    <td>@item.Gia</td>
+                    <td>@item.MoTa</td>
+                    <td>@item.SoLuong</td>
+                    <td>@item.MauSac</td>
+                    <td>@item.NhaSanXuat</td>
+                    <td>
+                        @if (item.HinhAnh != null && item.HinhAnh.Length > 0)
+                        {
+                            <img src="data:image/jpeg;base64,@Convert.ToBase64String(item.HinhAnh)" alt="@item.Ten" width="100" height="100" />
+                        }
+                        else
+                        {
+                            <span>No Image</span>
+                        }
+                    </td>
+                    <td>
+                        <div class="text-center">
+                            <a asp-action="RemoveSanPham" asp-route-id="@item.SanPhamId" class="btn btn-danger" onclick="return confirm('Bạn có muốn xóa không?');">Xóa</a>
+                            <a asp-action="UpdateSanPham" asp-route-id="@item.SanPhamId" class="btn btn-warning">Sửa</a>
+                        </div>
+                    </td>
+                </tr>
+                stt++;
+            }
+        }
+        else
+        {
+            
+            <tr class="text-center">
+                <td colspan="9">Không có sản phẩm nào.</td>
+            </tr>
+        }
+    </tbody>
+</table>

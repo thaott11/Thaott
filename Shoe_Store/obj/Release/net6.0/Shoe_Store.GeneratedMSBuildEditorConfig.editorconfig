@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Shoe_Store
+build_property.RootNamespace = Shoe_Store
+build_property.ProjectDir = D:\FPT\Du_An_Ca_Nhan\Shoe_Store\Shoe_Store\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\FPT\Du_An_Ca_Nhan\Shoe_Store\Shoe_Store
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Admin/AddLoai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkTG9haS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Admin/AddNhaCungcap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkTmhhQ3VuZ2NhcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Admin/AddSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkU2FuUGhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Admin/ListSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdFNhblBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Admin/UpdateSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlU2FuUGhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Use/SanPhamChitiet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlXFNhblBoYW1DaGl0aWV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Use/UseIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlXFVzZUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/Du_An_Ca_Nhan/Shoe_Store/Shoe_Store/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kqq0ny9k5w

@@ -1,0 +1,60 @@
+﻿@model Shoe_Store.Models.SanPham
+
+<h1 class="text-center">Update SanPham</h1>
+
+<h4>SanPham</h4>
+<hr />
+<div class="row">
+    <form asp-action="UpdateSanPham" method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="SanPhamId" />
+        <div>
+            <div class="form-group">
+                <label asp-for="Ten" class="control-label"></label>
+                <input asp-for="Ten" class="form-control" />
+                <span asp-validation-for="Ten" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gia" class="control-label"></label>
+                <input asp-for="Gia" class="form-control" />
+                <span asp-validation-for="Gia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MoTa" class="control-label"></label>
+                <textarea asp-for="MoTa" class="form-control"></textarea>
+                <span asp-validation-for="MoTa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SoLuong" class="control-label"></label>
+                <input asp-for="SoLuong" class="form-control" />
+                <span asp-validation-for="SoLuong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MauSac" class="control-label"></label>
+                <input asp-for="MauSac" class="form-control" />
+                <span asp-validation-for="MauSac" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhaSanXuat" class="control-label"></label>
+                <input asp-for="NhaSanXuat" class="form-control" />
+                <span asp-validation-for="NhaSanXuat" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="HinhAnh" class="form-label">Image</label>
+            <input type="file" class="form-control" name="HinhAnh">
+            <span asp-validation-for="HinhAnh" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label for="NhaCungCapId" class="form-label">Supplier</label>
+            <select asp-for="NhaCungCapId" class="form-control" asp-items="ViewBag.NhaCungCap">
+                <option value="">-- Select Supplier --</option>
+            </select>
+            <span asp-validation-for="NhaCungCapId" class="text-danger"></span>
+        </div>
+        <div class="text-center">
+            <button type="submit" class="btn btn-success">Save</button>
+            <a asp-action="ListSanPham" class="btn btn-secondary">Back</a>
+        </div>
+    </form>
+</div>

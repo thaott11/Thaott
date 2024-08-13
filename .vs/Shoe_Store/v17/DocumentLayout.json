@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\views\\use\\sanphamchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\views\\use\\sanphamchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\controllers\\nguoidung\\usecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\controllers\\nguoidung\\usecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\views\\use\\useindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\views\\use\\useindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\models\\sanphamsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\models\\sanphamsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\models\\anhchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\models\\anhchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\views\\admin\\updatesanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\views\\admin\\updatesanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\shoe_store\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\models\\shoe_store_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\models\\shoe_store_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\models\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\models\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\views\\admin\\listsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\views\\admin\\listsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\views\\admin\\addsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\views\\admin\\addsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\views\\admin\\addnhacungcap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\views\\admin\\addnhacungcap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|d:\\fpt\\du_an_ca_nhan\\shoe_store\\shoe_store\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEDA262-8B42-4C77-820B-35867D3BAA55}|Shoe_Store\\Shoe_Store.csproj|solutionrelative:shoe_store\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPhamSize.cs",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\SanPhamSize.cs",
+              "RelativeDocumentMoniker": "Shoe_Store\\Models\\SanPhamSize.cs",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\SanPhamSize.cs",
+              "RelativeToolTip": "Shoe_Store\\Models\\SanPhamSize.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:03:00.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UseController.cs",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Controllers\\NguoiDung\\UseController.cs",
+              "RelativeDocumentMoniker": "Shoe_Store\\Controllers\\NguoiDung\\UseController.cs",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Controllers\\NguoiDung\\UseController.cs",
+              "RelativeToolTip": "Shoe_Store\\Controllers\\NguoiDung\\UseController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:45:43.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamChitiet.cshtml",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Use\\SanPhamChitiet.cshtml",
+              "RelativeDocumentMoniker": "Shoe_Store\\Views\\Use\\SanPhamChitiet.cshtml",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Use\\SanPhamChitiet.cshtml",
+              "RelativeToolTip": "Shoe_Store\\Views\\Use\\SanPhamChitiet.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:45:37.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Shoe_Store\\Models\\SanPham.cs",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\SanPham.cs",
+              "RelativeToolTip": "Shoe_Store\\Models\\SanPham.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:04:18.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnhChiTiet.cs",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\AnhChiTiet.cs",
+              "RelativeDocumentMoniker": "Shoe_Store\\Models\\AnhChiTiet.cs",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\AnhChiTiet.cs",
+              "RelativeToolTip": "Shoe_Store\\Models\\AnhChiTiet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:00:44.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UseIndex.cshtml",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Use\\UseIndex.cshtml",
+              "RelativeDocumentMoniker": "Shoe_Store\\Views\\Use\\UseIndex.cshtml",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Use\\UseIndex.cshtml",
+              "RelativeToolTip": "Shoe_Store\\Views\\Use\\UseIndex.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:43:56.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateSanPham.cshtml",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Admin\\UpdateSanPham.cshtml",
+              "RelativeDocumentMoniker": "Shoe_Store\\Views\\Admin\\UpdateSanPham.cshtml",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Admin\\UpdateSanPham.cshtml",
+              "RelativeToolTip": "Shoe_Store\\Views\\Admin\\UpdateSanPham.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T02:25:55.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Controllers\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "Shoe_Store\\Controllers\\Admin\\AdminController.cs",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Controllers\\Admin\\AdminController.cs",
+              "RelativeToolTip": "Shoe_Store\\Controllers\\Admin\\AdminController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:03:09.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shoe_Store_DbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\Shoe_Store_DbContext.cs",
+              "RelativeDocumentMoniker": "Shoe_Store\\Models\\Shoe_Store_DbContext.cs",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\Shoe_Store_DbContext.cs",
+              "RelativeToolTip": "Shoe_Store\\Models\\Shoe_Store_DbContext.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAqwEwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:58:10.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\Loai.cs",
+              "RelativeDocumentMoniker": "Shoe_Store\\Models\\Loai.cs",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\Loai.cs",
+              "RelativeToolTip": "Shoe_Store\\Models\\Loai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:00:40.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shoe_Store\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shoe_Store\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:43:43.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Shoe_Store\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Shoe_Store\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:43:42.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Shoe_Store\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Shoe_Store\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:57:30.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddNhaCungcap.cshtml",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Admin\\AddNhaCungcap.cshtml",
+              "RelativeDocumentMoniker": "Shoe_Store\\Views\\Admin\\AddNhaCungcap.cshtml",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Admin\\AddNhaCungcap.cshtml",
+              "RelativeToolTip": "Shoe_Store\\Views\\Admin\\AddNhaCungcap.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:51:27.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddSanPham.cshtml",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Admin\\AddSanPham.cshtml",
+              "RelativeDocumentMoniker": "Shoe_Store\\Views\\Admin\\AddSanPham.cshtml",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Admin\\AddSanPham.cshtml",
+              "RelativeToolTip": "Shoe_Store\\Views\\Admin\\AddSanPham.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAlwDIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:51:24.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListSanPham.cshtml",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Admin\\ListSanPham.cshtml",
+              "RelativeDocumentMoniker": "Shoe_Store\\Views\\Admin\\ListSanPham.cshtml",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Views\\Admin\\ListSanPham.cshtml",
+              "RelativeToolTip": "Shoe_Store\\Views\\Admin\\ListSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:48:52.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "Shoe_Store\\Models\\NguoiDung.cs",
+              "ToolTip": "D:\\FPT\\Du_An_Ca_Nhan\\Shoe_Store\\Shoe_Store\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "Shoe_Store\\Models\\NguoiDung.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:40:29.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
